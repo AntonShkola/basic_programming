@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\anton\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Projects\\GIT\\Programming_learn\\basic_programming\\basic_prg_struct_enum\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5669D2-CB97-42F5-B244-C42387DED50A}|basic_prg_struct_enum_months\\basic_prg_struct_enum_months.vcxproj|C:\\Users\\anton\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Projects\\GIT\\Programming_learn\\basic_programming\\basic_prg_struct_enum\\basic_prg_struct_enum_months\\enum_months.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F5669D2-CB97-42F5-B244-C42387DED50A}|basic_prg_struct_enum_months\\basic_prg_struct_enum_months.vcxproj|solutionrelative:basic_prg_struct_enum_months\\enum_months.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FD67DB-3C1F-4E8B-BDDA-AA0AC7FC66A5}|basic_prg_struct_enum\\basic_prg_struct_enum.vcxproj|C:\\Users\\anton\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Projects\\GIT\\Programming_learn\\basic_programming\\basic_prg_struct_enum\\basic_prg_struct_enum\\lesson.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68FD67DB-3C1F-4E8B-BDDA-AA0AC7FC66A5}|basic_prg_struct_enum\\basic_prg_struct_enum.vcxproj|solutionrelative:basic_prg_struct_enum\\lesson.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "enum_months.cpp",
+              "DocumentMoniker": "C:\\Users\\anton\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Projects\\GIT\\Programming_learn\\basic_programming\\basic_prg_struct_enum\\basic_prg_struct_enum_months\\enum_months.cpp",
+              "RelativeDocumentMoniker": "basic_prg_struct_enum_months\\enum_months.cpp",
+              "ToolTip": "C:\\Users\\anton\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Projects\\GIT\\Programming_learn\\basic_programming\\basic_prg_struct_enum\\basic_prg_struct_enum_months\\enum_months.cpp",
+              "RelativeToolTip": "basic_prg_struct_enum_months\\enum_months.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-28T08:24:51.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lesson.cpp",
+              "DocumentMoniker": "C:\\Users\\anton\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Projects\\GIT\\Programming_learn\\basic_programming\\basic_prg_struct_enum\\basic_prg_struct_enum\\lesson.cpp",
+              "RelativeDocumentMoniker": "basic_prg_struct_enum\\lesson.cpp",
+              "ToolTip": "C:\\Users\\anton\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Projects\\GIT\\Programming_learn\\basic_programming\\basic_prg_struct_enum\\basic_prg_struct_enum\\lesson.cpp",
+              "RelativeToolTip": "basic_prg_struct_enum\\lesson.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-26T13:56:53.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
