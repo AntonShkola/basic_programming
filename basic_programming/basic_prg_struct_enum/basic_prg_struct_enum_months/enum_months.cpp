@@ -2,7 +2,7 @@
 
 using namespace std;
 
-enum class Months { none,january,february,march,april,may,june,july,august,september,october,november,december };
+enum class Months { january = 1,february,march,april,may,june,july,august,september,october,november,december };
 
 int getMonthInput()
 {
@@ -21,11 +21,14 @@ int main()
 		monthNumber = getMonthInput();
 		Months month{ static_cast<Months>(monthNumber) };
 
-		switch (month)
+		if (monthNumber == 0)
 		{
-		case Months::none:
 			cout << "Goodbay, my friend..." << endl;
 			break;
+		}		
+
+		switch (month)
+		{
 		case Months::january:
 			cout << "January" << endl;
 			break;

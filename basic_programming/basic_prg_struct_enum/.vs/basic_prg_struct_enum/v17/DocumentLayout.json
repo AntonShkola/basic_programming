@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\anton\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Projects\\GIT\\Programming_learn\\basic_programming\\basic_prg_struct_enum\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CA7ACD1-B0A8-4D58-8A0E-1A1A18540504}|basic_prg_struct_enum_out\\basic_prg_struct_enum_out.vcxproj|C:\\Users\\anton\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Projects\\GIT\\Programming_learn\\basic_programming\\basic_prg_struct_enum\\basic_prg_struct_enum_out\\adress_out.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6CA7ACD1-B0A8-4D58-8A0E-1A1A18540504}|basic_prg_struct_enum_out\\basic_prg_struct_enum_out.vcxproj|solutionrelative:basic_prg_struct_enum_out\\adress_out.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F5669D2-CB97-42F5-B244-C42387DED50A}|basic_prg_struct_enum_months\\basic_prg_struct_enum_months.vcxproj|C:\\Users\\anton\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Projects\\GIT\\Programming_learn\\basic_programming\\basic_prg_struct_enum\\basic_prg_struct_enum_months\\enum_months.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3F5669D2-CB97-42F5-B244-C42387DED50A}|basic_prg_struct_enum_months\\basic_prg_struct_enum_months.vcxproj|solutionrelative:basic_prg_struct_enum_months\\enum_months.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA7ACD1-B0A8-4D58-8A0E-1A1A18540504}|basic_prg_struct_enum_out\\basic_prg_struct_enum_out.vcxproj|C:\\Users\\anton\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Projects\\GIT\\Programming_learn\\basic_programming\\basic_prg_struct_enum\\basic_prg_struct_enum_out\\adress_out.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CA7ACD1-B0A8-4D58-8A0E-1A1A18540504}|basic_prg_struct_enum_out\\basic_prg_struct_enum_out.vcxproj|solutionrelative:basic_prg_struct_enum_out\\adress_out.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8D55142-BC1F-4CBB-B4C5-6818F0AA406F}|basic_prg_struct_enum_bills\\basic_prg_struct_enum_bills.vcxproj|C:\\Users\\anton\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Projects\\GIT\\Programming_learn\\basic_programming\\basic_prg_struct_enum\\basic_prg_struct_enum_bills\\struct_bills.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -39,8 +39,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-26T13:56:53.204Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -52,31 +51,30 @@
               "RelativeToolTip": "basic_prg_struct_enum_bills\\struct_bills.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-28T10:08:30.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T10:08:30.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "enum_months.cpp",
               "DocumentMoniker": "C:\\Users\\anton\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Projects\\GIT\\Programming_learn\\basic_programming\\basic_prg_struct_enum\\basic_prg_struct_enum_months\\enum_months.cpp",
               "RelativeDocumentMoniker": "basic_prg_struct_enum_months\\enum_months.cpp",
               "ToolTip": "C:\\Users\\anton\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Projects\\GIT\\Programming_learn\\basic_programming\\basic_prg_struct_enum\\basic_prg_struct_enum_months\\enum_months.cpp",
               "RelativeToolTip": "basic_prg_struct_enum_months\\enum_months.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-28T08:24:51.418Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "adress_out.cpp",
               "DocumentMoniker": "C:\\Users\\anton\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Projects\\GIT\\Programming_learn\\basic_programming\\basic_prg_struct_enum\\basic_prg_struct_enum_out\\adress_out.cpp",
               "RelativeDocumentMoniker": "basic_prg_struct_enum_out\\adress_out.cpp",
               "ToolTip": "C:\\Users\\anton\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Projects\\GIT\\Programming_learn\\basic_programming\\basic_prg_struct_enum\\basic_prg_struct_enum_out\\adress_out.cpp",
               "RelativeToolTip": "basic_prg_struct_enum_out\\adress_out.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-28T11:04:48.997Z",
               "EditorCaption": ""
